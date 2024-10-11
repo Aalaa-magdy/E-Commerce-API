@@ -1,0 +1,2 @@
+supabase:https://cqvzjrsyucebhnskjecr.supabase.com
+Gg51ewQgWQMJJH9L3USMGIWz5wZRqR+CaJ+dS03QVVND8f/waz91E4f8nwoZnJm8IfmubUQwjwog7VYb+1gKtA== jwt 
